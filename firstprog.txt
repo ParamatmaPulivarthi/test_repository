@@ -1,2 +1,4 @@
-this is my first project
+
 this is my first program
+print("this is first line")
+print(" this is second line")
